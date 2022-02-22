@@ -1,2 +1,2 @@
-# wpplugin-everaccounting
-Wordpress Plugin Ever Accounting
+# wpplugin-accounting
+Wordpress Plugins for Accounting
